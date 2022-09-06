@@ -4,7 +4,7 @@
 
 
 
-Bandcamp: https://outro-band.bandcamp.com
+Bandcamp: <a href="https://outro-band.bandcamp.com">https://outro-band.bandcamp.com</a>
 
 Contact: info [at] outroband.com 
 
