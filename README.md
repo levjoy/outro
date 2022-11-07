@@ -7,4 +7,4 @@ New Release! Check out "Live at Le Curieux Cirque" on Bandcamp: <a href="https:/
 
 Contact: info [at] outroband.com 
 
-<a rel="hi" href="https://spacelasers.us/@josh">Mastodon</a>
+<a rel="me" href="https://spacelasers.us/@josh">hi</a>
