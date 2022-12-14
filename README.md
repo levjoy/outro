@@ -6,5 +6,3 @@
 New Release! Check out "Live at Le Curieux Cirque" on Bandcamp: <a href="https://outro-band.bandcamp.com">https://outro-band.bandcamp.com</a>
 
 Contact: info [at] outroband.com 
-
-<a rel="me" href="https://mstdn.social/@levy">Josh on Mastodon</a>
